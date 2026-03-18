@@ -1,0 +1,2 @@
+import rt
+rt.rating()

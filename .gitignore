@@ -1,0 +1,20 @@
+# Виртуальное окружение
+venv/
+env/
+.env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки PyCharm (если есть)
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы с локальными настройками (если будут)
+config.local.py
+*.secret
+
